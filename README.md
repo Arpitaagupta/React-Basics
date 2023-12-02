@@ -1,8 +1,8 @@
-# React JS
+# 👉React JS
 
 React is a powerful front-end JavaScript library used to build interactive user interfaces. It enables the development of Single Page Applications (SPAs), providing a smooth and efficient user experience.
 
-## Key Features
+## 📌 Key Features
 
 1. **React Components**
    - Modular building blocks that encapsulate functionality and UI.
@@ -36,7 +36,7 @@ React is a powerful front-end JavaScript library used to build interactive user 
    - Handling user interactions and events in React components.
    - Enables creating responsive and interactive UIs.
 
-## JSX - JavaScript Extension
+## 👉JSX - JavaScript Extension
 
 JSX is a syntax extension for JavaScript, commonly used with React. It allows developers to write HTML elements and structures in a JavaScript file. This combination of HTML and JavaScript enhances the readability and maintainability of the code.
 
@@ -61,17 +61,16 @@ const MyComponent = () => {
 export default MyComponent;
 
 
-## Getting Started
+## ➡️Getting Started
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-react-project.git
+   git clone https://github.com/Arpitaagupta/React-Basics.git
    ```
 
 2. **Navigate to the project directory:**
 ```
     cd your-react-project
-
 ```
 
 3. **Install Dependencies**
